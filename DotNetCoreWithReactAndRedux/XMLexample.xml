@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductInfo>
+    <id>Tove</id>
+    <infos>
+        <info atr="1">
+            <price>1</price>
+            <dt>2021-01-01</dt>
+        </info>
+        <info atr="2">
+            <price>5</price>
+            <dt>2021-05-05</dt>
+        </info>
+    </infos>
+</ProductInfo>

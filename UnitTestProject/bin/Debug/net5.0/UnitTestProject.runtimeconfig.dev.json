@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/monnoroch/.dotnet/store/|arch|/|tfm|",
+      "/Users/monnoroch/.nuget/packages"
+    ]
+  }
+}
